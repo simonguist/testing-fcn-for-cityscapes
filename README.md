@@ -3,7 +3,7 @@ Testing fully convolutional networks for the cityscapes dataset using the caffe 
 
 ## How to get started
 - Download the cityscapes dataset and the vgg-16-layer net
-- Modify the images in the dataset with images cut_images.py or downscale_images.py for less resource demanding training and evaluation
+- Modify the images in the dataset with cut_images.py or downscale_images.py for less resource demanding training and evaluation
 - Run net_32.py to create the net
 - Modify the paths in train.txt and val.txt (first line: path to training/validation images, second line: path to annotations)
 - Run solve_start.py to start training
