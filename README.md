@@ -1,5 +1,16 @@
-# testing-fcn
-Testing fully convolutional networks for the cityscapes dataset
+# testing-fcn-for-cityscapes-dataset
+Testing fully convolutional networks for the cityscapes dataset using the caffe framework
+
+## How to get started
+- Download the cityscapes dataset
+- Modify the images in the dataset with images cut_images.py or downscale_images.py for less resource demanding training and evaluation
+- Run net_32.py to create the net
+- Modify the paths in train.txt and val.txt (first line: path to training/validation images, second line: path to annotations)
+- Run solve_start.py to start training
+- Run evaluate_models.py to evaluate your model or create_eval_images.py	to create images with pixel label ids
+
+
+## Sources
 
 ### Fully Convolutional Models for Semantic Segmentation:
 Shelhamer, Evan, Jonathon Long, and Trevor Darrell. "Fully Convolutional Networks for
