@@ -1,5 +1,5 @@
 #---------------------------------------------------------
-#Create evaluation images with label ids for the cityscapes dataset
+# Start training a model for the cityscapes dataset, initializing with the VGG 16-layer net
 
 # Adapted from: Fully Convolutional Networks for Semantic Segmentation by Jonathan Long*, Evan Shelhamer*, and Trevor Darrell. CVPR 2015 and PAMI 2016. http://fcn.berkeleyvision.org
 
