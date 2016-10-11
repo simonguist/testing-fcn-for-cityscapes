@@ -1,3 +1,10 @@
+#---------------------------------------------------------
+
+# Taken from: Fully Convolutional Networks for Semantic Segmentation by Jonathan Long*, Evan Shelhamer*, and Trevor Darrell. CVPR 2015 and PAMI 2016. http://fcn.berkeleyvision.org
+
+#---------------------------------------------------------
+
+
 train_net: "train.prototxt"
 test_net: "val.prototxt"
 test_iter: 736
