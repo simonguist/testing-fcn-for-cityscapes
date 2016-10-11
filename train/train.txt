@@ -1,0 +1,2 @@
+/export/home/sguist/fcn/fcn.berkeleyvision.org-master/data/cityscapes/leftImg8bit/train/
+/export/home/sguist/fcn/fcn.berkeleyvision.org-master/data/cityscapes/gtFine/train/
