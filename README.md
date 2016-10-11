@@ -1,5 +1,5 @@
 # testing-fcn-for-cityscapes-dataset
-Testing fully convolutional networks for the cityscapes dataset using the caffe framework
+Testing fully convolutional networks for the cityscapes dataset using caffe
 
 ## How to get started
 - Download the cityscapes dataset and the vgg-16-layer net
