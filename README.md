@@ -20,6 +20,6 @@ Semantic Segmentation." PAMI, 2016, URL http://fcn.berkeleyvision.org
 Cordts, Marius, et al. "The cityscapes dataset." CVPR Workshop on The Future of Datasets
 in Vision. 2015, URL https://www.cityscapes-dataset.com
 
-### Caffe framework:
+### Caffe Deep Learning Framework:
 Shelhamer, Evan, Jonathon Long, and Trevor Darrell. "Fully Convolutional Networks for
 Semantic Segmentation." PAMI, 2016, URL http://caffe.berkeleyvision.org
