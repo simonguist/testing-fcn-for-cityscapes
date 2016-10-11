@@ -1,4 +1,4 @@
-# testing-fcn-for-cityscapes-dataset
+
 Testing fully convolutional networks for semantic segmentation with caffe for the cityscapes dataset 
 
 ## How to get started
