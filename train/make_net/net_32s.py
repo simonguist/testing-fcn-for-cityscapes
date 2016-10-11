@@ -1,3 +1,10 @@
+#---------------------------------------------------------
+
+# Adapted from: Fully Convolutional Networks for Semantic Segmentation by Jonathan Long*, Evan Shelhamer*, and Trevor Darrell. CVPR 2015 and PAMI 2016. http://fcn.berkeleyvision.org
+
+#---------------------------------------------------------
+
+
 import sys
 
 caffe_root='/export/home/sguist/caffe/python'
